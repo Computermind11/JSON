@@ -3,28 +3,28 @@
         "id": 1,
         "title": "Notebook",
         "price": 2000,
-        "descripton": "It's notebook",
+        "description": "It's notebook",
         "counter": 0
     },
     {
         "id": 2,
         "title": "Mouse",
         "price": 20,
-        "descripton": "It's mouse",
+        "description": "It's mouse",
         "counter": 0
     },
     {
         "id": 3,
         "title": "Keyboard",
         "price": 200,
-        "descripton": "It's keyboard",
+        "description": "It's keyboard",
         "counter": 0
     },
     {
         "id": 4,
         "title": "Gamepad",
         "price": 50,
-        "descripton": "It's gamepad",
+        "description": "It's gamepad",
         "counter": 0
     }
 ]
