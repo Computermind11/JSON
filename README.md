@@ -1,2 +1,2 @@
 # JSON
-Repository for JSON files.
+Repository for JSON-files.
