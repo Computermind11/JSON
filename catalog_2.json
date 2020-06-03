@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "title": "Notebook",
+        "price": 2000,
+        "description": "It's notebook",
+        "counter": 0,
+        "img": "https://placehold.it/200x150"
+    },
+    {
+        "id": 2,
+        "title": "Mouse",
+        "price": 20,
+        "description": "It's mouse",
+        "counter": 0,
+        "img": "https://placehold.it/200x150"
+    },
+    {
+        "id": 3,
+        "title": "Keyboard",
+        "price": 200,
+        "description": "It's keyboard",
+        "counter": 0,
+        "img": "https://placehold.it/200x150"
+    },
+    {
+        "id": 4,
+        "title": "Gamepad",
+        "price": 50,
+        "description": "It's gamepad",
+        "counter": 0,
+        "img": "https://placehold.it/200x150"
+    }
+]
