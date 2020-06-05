@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+        "id": 0,
         "title": "Notebook",
         "price": 2000,
         "description": "It's notebook",
@@ -8,7 +8,7 @@
         "img": "img/image 0.jpg"
     },
     {
-        "id": 2,
+        "id": 1,
         "title": "Mouse",
         "price": 20,
         "description": "It's mouse",
@@ -16,7 +16,7 @@
         "img": "img/image 1.jpg"
     },
     {
-        "id": 3,
+        "id": 2,
         "title": "Keyboard",
         "price": 200,
         "description": "It's keyboard",
@@ -24,7 +24,7 @@
         "img": "img/image 2.jpg"
     },
     {
-        "id": 4,
+        "id": 3,
         "title": "Gamepad",
         "price": 50,
         "description": "It's gamepad",
