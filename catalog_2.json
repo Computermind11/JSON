@@ -1,34 +1,34 @@
 [
-    {
-        "id": 1,
-        "title": "Notebook",
-        "price": 2000,
-        "description": "It's notebook",
-        "counter": 0,
-        "img": "img/image 0.jpg"
-    },
-    {
-        "id": 2,
-        "title": "Mouse",
-        "price": 20,
-        "description": "It's mouse",
-        "counter": 0,
-        "img": "img/image 1.jpg"
-    },
-    {
-        "id": 3,
-        "title": "Keyboard",
-        "price": 200,
-        "description": "It's keyboard",
-        "counter": 0,
-        "img": "img/image 2.jpg"
-    },
-    {
-        "id": 4,
-        "title": "Gamepad",
-        "price": 50,
-        "description": "It's gamepad",
-        "counter": 0,
-        "img": "img/image 3.jpg"
-    }
+  {
+    "id": 0,
+    "title": "Notebook",
+    "price": 2000,
+    "description": "It's notebook",
+    "quantity": 0,
+    "img": "img/image_0"
+  },
+  {
+    "id": 1,
+    "title": "Mouse",
+    "price": 20,
+    "description": "It's mouse",
+    "quantity": 0,
+    "img": "img/image_1"
+  },
+  {
+    "id": 2,
+    "title": "Keyboard",
+    "price": 200,
+    "description": "It's keyboard",
+    "quantity": 0,
+    "img": "img/image_2"
+  },
+  {
+    "id": 3,
+    "title": "Gamepad",
+    "price": 50,
+    "description": "It's gamepad",
+    "quantity": 0,
+    "img": "img/image_3"
+  }
 ]
