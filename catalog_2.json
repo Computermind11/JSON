@@ -5,7 +5,7 @@
     "price": 2000,
     "description": "It's notebook",
     "quantity": 0,
-    "img": "img/image_0"
+    "img": "img/image_0.jpg"
   },
   {
     "id": 1,
@@ -13,7 +13,7 @@
     "price": 20,
     "description": "It's mouse",
     "quantity": 0,
-    "img": "img/image_1"
+    "img": "img/image_1.jpg"
   },
   {
     "id": 2,
@@ -21,7 +21,7 @@
     "price": 200,
     "description": "It's keyboard",
     "quantity": 0,
-    "img": "img/image_2"
+    "img": "img/image_2.jpg"
   },
   {
     "id": 3,
@@ -29,6 +29,6 @@
     "price": 50,
     "description": "It's gamepad",
     "quantity": 0,
-    "img": "img/image_3"
+    "img": "img/image_3.jpg"
   }
 ]
